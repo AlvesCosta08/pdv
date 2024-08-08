@@ -1,0 +1,194 @@
+[29-Apr-2024 10:23:18 America/Sao_Paulo] PHP Warning:  move_uploaded_file(../../img/usuario/Design-sem-nome.png): Failed to open stream: No such file or directory in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 50
+[29-Apr-2024 10:23:18 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php6poLSU&quot; to &quot;../../img/usuario/Design-sem-nome.png&quot; in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 50
+[22-May-2024 08:49:42 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:42 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:44 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:45 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:50 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:50 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:51 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:51 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:52 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:52 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:52 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:52 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:52 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:52 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:54 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:54 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:54 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:54 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:54 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:54 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:49:55 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 68
+[22-May-2024 08:49:55 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:70
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 70
+[22-May-2024 08:50:34 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:34 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:35 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:35 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:35 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:35 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:36 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:37 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:37 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:37 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:37 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60
+[22-May-2024 08:50:37 America/Sao_Paulo] PHP Warning:  Undefined variable $foto_destino in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 59
+[22-May-2024 08:50:37 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'foto_perfil' in 'field list' in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php:60
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-adm/usuarios/inserir.php on line 60

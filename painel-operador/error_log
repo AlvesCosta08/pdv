@@ -1,0 +1,229 @@
+[17-May-2024 22:24:02 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:32:22 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:32:51 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:32:53 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:32:56 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:32:57 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:32:57 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:32:57 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:32:57 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:32:57 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:33:14 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:33:15 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:33:17 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:33:18 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:33:26 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:34:59 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 22:36:57 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:37:02 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:37:10 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/codig267/public_html/pdv/painel-operador/abertura.php:52
+Stack trace:
+#0 /home2/codig267/public_html/pdv/painel-operador/abertura.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 52
+[17-May-2024 22:37:18 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[17-May-2024 23:01:47 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[18-May-2024 11:23:41 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[18-May-2024 11:32:33 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[19-May-2024 10:28:35 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[19-May-2024 11:23:46 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[19-May-2024 12:58:44 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[19-May-2024 13:40:25 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 4
+[19-May-2024 13:40:25 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:11:23 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:11:26 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:11:27 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:19:11 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:19:20 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:19:23 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:19:24 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:21:37 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:22:36 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:22:49 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:22:55 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:26:44 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:28:19 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:30:06 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:32:10 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:36:13 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:38:02 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:41:27 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:42:05 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:43:40 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:43:58 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/index.php on line 10
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 14:44:05 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/home.php on line 5
+[19-May-2024 14:44:09 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:44:46 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:44:56 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:47:55 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:37 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:42 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:43 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:48 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:48 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:49 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:49 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:49 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:49 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:50:50 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:51:03 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/index.php on line 10
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 14:53:03 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/home.php on line 5
+[19-May-2024 14:53:06 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/fechamento.php on line 4
+[19-May-2024 14:53:09 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/sangria.php on line 4
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/fechamento.php on line 4
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/index.php on line 10
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/home.php on line 5
+[19-May-2024 14:53:18 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[19-May-2024 14:57:30 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 4
+[19-May-2024 14:57:30 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:57:49 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 14:58:50 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 15:02:35 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 15:02:37 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/index.php on line 10
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 15:02:48 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/home.php on line 5
+[19-May-2024 15:02:55 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/fechamento.php on line 4
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/fechamento.php on line 4
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/index.php on line 10
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/home.php on line 5
+[19-May-2024 15:02:59 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[19-May-2024 15:03:11 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 4
+[19-May-2024 15:03:11 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[19-May-2024 15:03:28 America/Fortaleza] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/pdv.php on line 4
+[28-May-2024 11:17:02 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[28-May-2024 11:29:16 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191
+[28-May-2024 11:30:13 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 40
+[28-May-2024 11:30:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/abertura.php on line 40
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/index.php on line 10
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[28-May-2024 11:32:46 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/home.php on line 5
+[28-May-2024 11:32:56 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/fechamento.php on line 4
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/fechamento.php on line 4
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/index.php on line 10
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 12
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 13
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 14
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 15
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 16
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home2/codig267/public_html/pdv/painel-operador/index.php on line 17
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined array key "id_usuario" in /home2/codig267/public_html/pdv/painel-operador/home.php on line 5
+[28-May-2024 11:33:02 America/Sao_Paulo] PHP Warning:  Undefined variable $caixa in /home2/codig267/public_html/pdv/painel-operador/home.php on line 191

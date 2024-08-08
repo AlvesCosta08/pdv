@@ -1,0 +1,64 @@
+[29-Apr-2024 10:10:26 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[29-Apr-2024 10:10:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6
+[17-May-2024 22:54:26 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[17-May-2024 22:54:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6
+[30-May-2024 10:55:46 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/pdv/conexao.php on line 7
+[30-May-2024 10:55:46 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/pdv/conexao.php on line 7
+[30-May-2024 10:55:46 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/pdv/conexao.php on line 7
+[30-May-2024 10:55:46 America/Sao_Paulo] PHP Warning:  Undefined variable $senha_bd in /home2/codig267/public_html/pdv/conexao.php on line 7
+[30-May-2024 10:55:46 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[30-May-2024 10:55:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6
+[05-Jun-2024 07:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $senha_bd in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[05-Jun-2024 07:25:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6
+[05-Jun-2024 07:25:47 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:47 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:47 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:47 America/Sao_Paulo] PHP Warning:  Undefined variable $senha_bd in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 07:25:47 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[05-Jun-2024 07:25:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6
+[05-Jun-2024 19:09:36 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 19:09:36 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 19:09:36 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 19:09:36 America/Sao_Paulo] PHP Warning:  Undefined variable $senha_bd in /home2/codig267/public_html/pdv/conexao.php on line 7
+[05-Jun-2024 19:09:36 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[05-Jun-2024 19:09:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6
+[10-Jun-2024 20:58:00 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/pdv/conexao.php on line 7
+[10-Jun-2024 20:58:00 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/pdv/conexao.php on line 7
+[10-Jun-2024 20:58:00 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/pdv/conexao.php on line 7
+[10-Jun-2024 20:58:00 America/Sao_Paulo] PHP Warning:  Undefined variable $senha_bd in /home2/codig267/public_html/pdv/conexao.php on line 7
+[10-Jun-2024 20:58:00 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[10-Jun-2024 20:58:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6
+[18-Jul-2024 11:06:14 America/Sao_Paulo] PHP Warning:  Undefined variable $banco in /home2/codig267/public_html/pdv/conexao.php on line 7
+[18-Jul-2024 11:06:14 America/Sao_Paulo] PHP Warning:  Undefined variable $servidor in /home2/codig267/public_html/pdv/conexao.php on line 7
+[18-Jul-2024 11:06:14 America/Sao_Paulo] PHP Warning:  Undefined variable $usuario in /home2/codig267/public_html/pdv/conexao.php on line 7
+[18-Jul-2024 11:06:14 America/Sao_Paulo] PHP Warning:  Undefined variable $senha_bd in /home2/codig267/public_html/pdv/conexao.php on line 7
+[18-Jul-2024 11:06:14 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home2/codig267/public_html/pdv/index.php on line 6
+[18-Jul-2024 11:06:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/codig267/public_html/pdv/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/pdv/index.php on line 6

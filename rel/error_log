@@ -1,0 +1,484 @@
+[29-Apr-2024 10:39:22 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[29-Apr-2024 10:39:52 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relProdVendidos.php?dataInicial=2024-04-29&amp;dataFinal=2024-04-29): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdVendidos_class.php on line 10
+[29-Apr-2024 14:20:46 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=02365478941&amp;nome=Suco+Caixa&amp;valor=5.40): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[29-Apr-2024 14:20:58 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=7897933621227): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[29-Apr-2024 14:24:28 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=02365478941): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[29-Apr-2024 14:31:26 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=7891152501537&amp;nome=Puro+Sabor&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[29-Apr-2024 20:44:13 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[17-May-2024 22:20:53 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/fluxocaixa.php?id=20): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/fluxocaixa_class.php on line 8
+[17-May-2024 22:21:09 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relSangrias.php?id=20): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relSangrias_class.php on line 7
+[17-May-2024 22:34:15 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relSangrias.php?id=20): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relSangrias_class.php on line 7
+[17-May-2024 22:36:41 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/fluxocaixa.php?id=20): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/fluxocaixa_class.php on line 8
+[18-May-2024 11:39:15 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[18-May-2024 11:39:52 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[18-May-2024 11:39:57 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[18-May-2024 11:43:28 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[18-May-2024 11:45:09 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[18-May-2024 11:48:31 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 10:30:59 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relSangrias.php?id=21): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relSangrias_class.php on line 7
+[19-May-2024 10:31:11 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/fluxocaixa.php?id=21): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/fluxocaixa_class.php on line 8
+[19-May-2024 10:31:18 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/fluxocaixa.php?id=19): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/fluxocaixa_class.php on line 8
+[19-May-2024 10:31:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relSangrias.php?id=20): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relSangrias_class.php on line 7
+[19-May-2024 10:49:44 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 11:05:18 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:22 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:25 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:25 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:25 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:25 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:25 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:05:26 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:06:03 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=02365478941&amp;nome=Suco+Caixa&amp;valor=5.40): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:06:20 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=02365478941&amp;nome=Suco+Caixa&amp;valor=5.40): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:24:56 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:25:38 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:25:44 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:29:26 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=02365478941&amp;nome=Suco+Caixa&amp;valor=5.40): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:29:31 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=02365478941&amp;nome=Suco+Caixa&amp;valor=5.40): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:29:32 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=02365478941&amp;nome=Suco+Caixa&amp;valor=5.40): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:29:32 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=02365478941&amp;nome=Suco+Caixa&amp;valor=5.40): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:30:19 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:30:32 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:30:35 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:30:36 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:30:37 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:30:45 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:35:52 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:35:55 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:35:55 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:35:55 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:35:56 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:35:56 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:36:04 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:36:11 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 11:37:07 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 18
+[19-May-2024 11:56:12 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 11:56:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 11:56:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 11:56:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 11:56:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 11:56:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 11:56:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 11:56:39 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:15:17 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 12:15:31 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:16:05 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 12:16:20 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 12:16:53 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 12:22:07 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 12:22:11 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 17
+[19-May-2024 12:32:53 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:33:23 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:42:21 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 12:45:16 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 12:45:20 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 12:45:21 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 12:50:53 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:55:11 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:55:21 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 12:55:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 12:57:25 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:57:28 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:57:28 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 12:57:29 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:11:09 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=10): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[19-May-2024 13:11:15 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:11:26 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:26:05 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:26:08 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:26:09 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:26:09 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:26:10 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[19-May-2024 13:26:10 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=10&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 19:11:13 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 19:14:04 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 19:14:12 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/barras_valor.php?codigo=12345&amp;nome=P%C3%A3o+Franc%C3%AAs&amp;valor=7.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 19:14:24 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relMov.php?dataInicial=2024-05-21&amp;dataFinal=2024-05-21&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relMov_class.php on line 10
+[21-May-2024 19:15:29 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relMov.php?dataInicial=2024-05-21&amp;dataFinal=2024-05-21&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relMov_class.php on line 10
+[21-May-2024 19:15:50 America/Fortaleza] PHP Warning:  file_get_contents(http://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[21-May-2024 20:06:30 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:06:34 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:06:36 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:06:37 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:06:38 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:06:40 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:11:22 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:46 America/Fortaleza] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:46 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.brrel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:47 America/Fortaleza] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:47 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.brrel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:48 America/Fortaleza] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:48 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.brrel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:49 America/Fortaleza] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:49 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.brrel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:55 America/Fortaleza] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:12:55 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.brrel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:13:35 America/Fortaleza] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:13:35 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.brrel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: php_network_getaddresses: getaddrinfo for codigoquatro.com.brrel failed: Name or service not known in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:15:04 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:15:04 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:15:04 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:15:07 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:15:08 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:15:13 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 20:28:36 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 20:28:49 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relCompras.php?dataInicial=2024-05-21&amp;dataFinal=2024-05-21&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relCompras_class.php on line 10
+[21-May-2024 20:29:02 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:29:55 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[21-May-2024 20:30:00 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[21-May-2024 20:30:01 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[21-May-2024 20:35:01 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[21-May-2024 20:35:12 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdVendidos.php?dataInicial=2024-05-21&amp;dataFinal=2024-05-21): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdVendidos_class.php on line 10
+[21-May-2024 20:36:22 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[21-May-2024 20:37:19 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 20:37:39 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 20:37:53 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 20:38:11 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 20:39:04 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:52:48 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 20:55:03 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relCompras.php?dataInicial=2024-05-21&amp;dataFinal=2024-05-21&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relCompras_class.php on line 10
+[21-May-2024 21:01:29 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 21:03:03 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 21:03:08 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 21:05:10 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=12345): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 8
+[21-May-2024 21:07:46 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 15
+[21-May-2024 21:08:13 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 15
+[21-May-2024 21:08:17 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 15
+[21-May-2024 21:08:21 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 15
+[21-May-2024 21:08:32 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 21:10:05 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 14
+[21-May-2024 21:11:28 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 14
+[21-May-2024 21:11:37 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 15
+[21-May-2024 21:22:28 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[21-May-2024 21:25:02 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras.php?codigo=130111111111): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_class.php on line 15
+[21-May-2024 21:25:08 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/barras_valor.php?codigo=130111111111&amp;nome=batata&amp;valor=10.00): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/barras_valor_class.php on line 10
+[22-May-2024 07:24:03 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdVendidos.php?dataInicial=2024-05-22&amp;dataFinal=2024-05-22): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdVendidos_class.php on line 10
+[22-May-2024 07:25:58 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[22-May-2024 07:26:06 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[22-May-2024 07:26:09 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[22-May-2024 07:28:33 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relProdutos.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relProdutos_class.php on line 6
+[22-May-2024 08:01:44 America/Fortaleza] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 63
+[22-May-2024 08:01:44 America/Fortaleza] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 63
+[22-May-2024 08:01:44 America/Fortaleza] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 87
+[22-May-2024 08:01:44 America/Fortaleza] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 63
+[22-May-2024 08:01:44 America/Fortaleza] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 63
+[22-May-2024 08:01:44 America/Fortaleza] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 87
+[22-May-2024 08:01:45 America/Fortaleza] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 63
+[22-May-2024 08:01:45 America/Fortaleza] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 63
+[22-May-2024 08:01:45 America/Fortaleza] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 87
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 95
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 95
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:23 America/Sao_Paulo] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 95
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 95
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 95
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 71
+[22-May-2024 08:03:27 America/Sao_Paulo] PHP Warning:  Undefined variable $totalItens in /home2/codig267/public_html/pdv/rel/relProdutos.php on line 95
+[22-May-2024 08:11:34 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relCompras.php?dataInicial=2024-05-22&amp;dataFinal=2024-05-22&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relCompras_class.php on line 10
+[22-May-2024 08:15:00 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relCompras.php?dataInicial=2024-05-22&amp;dataFinal=2024-05-22&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relCompras_class.php on line 10
+[22-May-2024 08:15:12 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[22-May-2024 08:15:12 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[22-May-2024 08:15:12 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[22-May-2024 08:16:24 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relCompras.php?dataInicial=2024-05-22&amp;dataFinal=2024-05-22&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relCompras_class.php on line 10
+[22-May-2024 08:30:47 America/Fortaleza] PHP Warning:  file_get_contents(https://codigoquatro.com.br/rel/relCompras.php?dataInicial=2024-05-22&amp;dataFinal=2024-05-22&amp;status=): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/codig267/public_html/pdv/rel/relCompras_class.php on line 10
+[22-May-2024 08:31:39 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[22-May-2024 08:31:39 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[22-May-2024 08:31:39 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[22-May-2024 08:31:48 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relProdVendidos.php on line 7
+[22-May-2024 08:31:48 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relProdVendidos.php on line 8
+[22-May-2024 08:32:08 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relLucro.php on line 6
+[22-May-2024 08:32:08 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relLucro.php on line 7
+[23-May-2024 10:46:48 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[23-May-2024 10:46:48 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[23-May-2024 10:46:48 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[23-May-2024 10:48:32 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:48:32 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:48:32 America/Sao_Paulo] PHP Warning:  Undefined variable $status_like in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:48:32 America/Sao_Paulo] PHP Warning:  Undefined variable $status_serv in /home2/codig267/public_html/pdv/rel/relVendas.php on line 47
+[23-May-2024 10:48:32 America/Sao_Paulo] PHP Warning:  Undefined variable $apuracao in /home2/codig267/public_html/pdv/rel/relVendas.php on line 109
+[23-May-2024 10:52:07 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:52:07 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:52:07 America/Sao_Paulo] PHP Warning:  Undefined variable $status_like in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:52:07 America/Sao_Paulo] PHP Warning:  Undefined variable $status_serv in /home2/codig267/public_html/pdv/rel/relVendas.php on line 47
+[23-May-2024 10:52:07 America/Sao_Paulo] PHP Warning:  Undefined variable $apuracao in /home2/codig267/public_html/pdv/rel/relVendas.php on line 109
+[23-May-2024 10:55:22 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:55:22 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:55:22 America/Sao_Paulo] PHP Warning:  Undefined variable $status_like in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:55:22 America/Sao_Paulo] PHP Warning:  Undefined variable $status_serv in /home2/codig267/public_html/pdv/rel/relVendas.php on line 47
+[23-May-2024 10:55:22 America/Sao_Paulo] PHP Warning:  Undefined variable $apuracao in /home2/codig267/public_html/pdv/rel/relVendas.php on line 109
+[23-May-2024 10:56:03 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:03 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:03 America/Sao_Paulo] PHP Warning:  Undefined variable $status_like in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:03 America/Sao_Paulo] PHP Warning:  Undefined variable $status_serv in /home2/codig267/public_html/pdv/rel/relVendas.php on line 47
+[23-May-2024 10:56:03 America/Sao_Paulo] PHP Warning:  Undefined variable $apuracao in /home2/codig267/public_html/pdv/rel/relVendas.php on line 109
+[23-May-2024 10:56:10 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:10 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:10 America/Sao_Paulo] PHP Warning:  Undefined variable $status_like in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:10 America/Sao_Paulo] PHP Warning:  Undefined variable $status_serv in /home2/codig267/public_html/pdv/rel/relVendas.php on line 47
+[23-May-2024 10:56:10 America/Sao_Paulo] PHP Warning:  Undefined variable $apuracao in /home2/codig267/public_html/pdv/rel/relVendas.php on line 109
+[23-May-2024 10:56:14 America/Sao_Paulo] PHP Warning:  Undefined variable $dataInicial in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:14 America/Sao_Paulo] PHP Warning:  Undefined variable $dataFinal in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:14 America/Sao_Paulo] PHP Warning:  Undefined variable $status_like in /home2/codig267/public_html/pdv/rel/relVendas.php on line 5
+[23-May-2024 10:56:14 America/Sao_Paulo] PHP Warning:  Undefined variable $status_serv in /home2/codig267/public_html/pdv/rel/relVendas.php on line 47
+[23-May-2024 10:56:14 America/Sao_Paulo] PHP Warning:  Undefined variable $apuracao in /home2/codig267/public_html/pdv/rel/relVendas.php on line 109
+[23-May-2024 10:57:38 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[23-May-2024 10:57:38 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[23-May-2024 10:57:38 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[23-May-2024 10:57:38 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relVendas.php on line 87
+[23-May-2024 10:57:38 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relVendas.php on line 87
+[23-May-2024 10:57:38 America/Sao_Paulo] PHP Warning:  Undefined variable $saldo in /home2/codig267/public_html/pdv/rel/relVendas.php on line 133
+[23-May-2024 10:57:43 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[23-May-2024 10:57:43 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[23-May-2024 10:57:43 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[23-May-2024 10:57:43 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relVendas.php on line 87
+[23-May-2024 10:57:43 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relVendas.php on line 87
+[23-May-2024 10:57:43 America/Sao_Paulo] PHP Warning:  Undefined variable $saldo in /home2/codig267/public_html/pdv/rel/relVendas.php on line 133
+[23-May-2024 10:58:16 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[23-May-2024 10:58:16 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[23-May-2024 10:58:16 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[23-May-2024 10:58:16 America/Sao_Paulo] PHP Warning:  Undefined variable $res in /home2/codig267/public_html/pdv/rel/relVendas.php on line 87
+[23-May-2024 10:58:16 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/codig267/public_html/pdv/rel/relVendas.php on line 87
+[23-May-2024 10:58:16 America/Sao_Paulo] PHP Warning:  Undefined variable $saldo in /home2/codig267/public_html/pdv/rel/relVendas.php on line 133
+[23-May-2024 10:59:18 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[23-May-2024 10:59:18 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[23-May-2024 10:59:18 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[23-May-2024 11:06:13 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relProdVendidos.php on line 7
+[23-May-2024 11:06:13 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relProdVendidos.php on line 8
+[23-May-2024 11:06:37 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:06:37 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:06:37 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:17:55 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:17:55 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:17:55 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:18:55 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:18:55 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:18:55 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:23:27 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:23:27 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:23:27 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:23:31 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:23:31 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:23:31 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:25:55 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:26:03 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:26:03 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:26:03 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:26:25 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:26:25 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:26:25 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 11:28:01 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 11:28:01 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 11:28:01 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:02:01 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 13:02:01 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 13:02:01 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:02:13 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 13:02:13 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 13:02:13 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:02:18 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 13:02:18 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 13:02:18 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 13:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 13:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:07:45 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 13:07:45 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 13:07:45 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:12:54 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 13:12:54 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 13:12:54 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:13:12 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 6
+[23-May-2024 13:13:12 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 7
+[23-May-2024 13:13:12 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relCompras.php on line 8
+[23-May-2024 13:13:23 America/Sao_Paulo] PHP Warning:  Undefined array key "dataInicial" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 6
+[23-May-2024 13:13:23 America/Sao_Paulo] PHP Warning:  Undefined array key "dataFinal" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 7
+[23-May-2024 13:13:23 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home2/codig267/public_html/pdv/rel/relVendas.php on line 8
+[28-May-2024 11:31:34 America/Sao_Paulo] PHP Warning:  Undefined variable $classeSaldo in /home2/codig267/public_html/pdv/rel/fluxocaixa.php on line 302
+[28-May-2024 11:32:00 America/Sao_Paulo] PHP Warning:  Undefined variable $saldoF in /home2/codig267/public_html/pdv/rel/relSangrias.php on line 388
