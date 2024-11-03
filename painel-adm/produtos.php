@@ -163,7 +163,7 @@ if(@$_GET['funcao'] == "editar"){
 						</div>
 						<div class="col-md-3">
 							<div class="mb-3">
-								<label for="exampleFormControlInput1" class="form-label">Valor Venda</label>
+								<label for="exampleFormControlInput1" class="form-label">Preço Unitário</label>
 								<input type="text" class="form-control" id="valor_venda" name="valor_venda" placeholder="Valor Venda"  value="<?php echo @$valor_venda ?>">
 							</div> 
 						</div>
@@ -263,11 +263,6 @@ if(@$_GET['funcao'] == "editar"){
 	</div>
 </div>
 
-
-
-
-
-
 <div class="modal fade" tabindex="-1" id="modalDeletar" >
 	<div class="modal-dialog">
 		<div class="modal-content">
@@ -296,11 +291,6 @@ if(@$_GET['funcao'] == "editar"){
 		</div>
 	</div>
 </div>
-
-
-
-
-
 
 <div class="modal fade" tabindex="-1" id="modalDados" >
 	<div class="modal-dialog">
@@ -340,10 +330,6 @@ if(@$_GET['funcao'] == "editar"){
 		</div>
 	</div>
 </div>
-
-
-
-
 
 
 <div class="modal fade" tabindex="-1" id="modalComprar" >
@@ -442,18 +428,18 @@ if(@$_GET['funcao'] == "editar"){
 
 						<div class="col-md-4">
 							<div class="mb-3">
-								<label for="exampleFormControlInput1" class="form-label">Validade</label>
+								<label for="exampleFormControlInput1" class="form-label">Data</label>
 								<input type="date" class="form-control" id="validade" name="validade"  value="<?php echo @$validade ?>">
 							</div> 
 						</div>	
 
-
+						<!--
 						<div class="col-md-4">
 							<div class="mb-3">
 								<label for="exampleFormControlInput1" class="form-label">Alerta Vencimento Dias</label>
-								<input type="number" class="form-control" id="alerta" name="alerta"  value="<?php echo @$alerta ?>">
+								<input type="number" class="form-control" id="alerta" name="alerta"  value="<?php //echo @$alerta ?>">
 							</div> 
-						</div>	
+						</div>	-->
 					</div>
 
 					<div class="row">
@@ -496,6 +482,8 @@ if(@$_GET['funcao'] == "editar"){
 		</div>
 	</div>
 </div>
+
+
 
 
 
@@ -877,5 +865,25 @@ if(@$_GET['funcao'] == "deletar"){ ?>
 				} else {
 					target.src = "";
 				}
+			}
+		</script>
+		<script>
+			function calcularValores() {
+				const quantidade = parseFloat(document.getElementById('quantidade').value) || 0;
+				const valorCusto = parseFloat(document.getElementById('valor_custo').value.replace(',', '.')) || 0;
+				const ipi = parseFloat(document.getElementById('ipi').value.replace(',', '.')) || 0;
+				const percentualCusto = parseFloat(document.getElementById('percentual_custo').value.replace(',', '.')) || 0;
+
+				// Calcula o Custo Total
+				const custoTotal = quantidade * valorCusto;
+				document.getElementById('custo_total').value = `R$ ${custoTotal.toFixed(4).replace('.', ',')}`;
+
+				// Calcula o Valor de NF (Custo Total + IPI)
+				const valorNF = custoTotal + (custoTotal * (ipi / 100));
+				document.getElementById('valor_nf').value = `R$ ${valorNF.toFixed(4).replace('.', ',')}`;
+
+				// Calcula o Valor para Vender (NF + % Custo)
+				const valorVenda = valorNF + (valorNF * (percentualCusto / 100));
+				document.getElementById('valor_venda').value = `R$ ${valorVenda.toFixed(2).replace('.', ',')}`;
 			}
 		</script>

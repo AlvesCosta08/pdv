@@ -101,7 +101,7 @@ $id_usu = $res[0]['id'];
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="index.php?pagina=<?php echo $menu6 ?>">Lista de Compras</a></li>
             <li><a class="dropdown-item" href="index.php?pagina=<?php echo $menu11 ?>">Estoque Baixo</a></li>
-            <li><a class="dropdown-item" href="index.php?pagina=<?php echo $menu13 ?>">Alertas Vencimento</a></li>
+            <li><a class="dropdown-item disabled" href="index.php?pagina=<?php echo $menu13 ?>">Alertas Vencimento</a></li>
           </ul>
         </li>
 
@@ -133,16 +133,16 @@ $id_usu = $res[0]['id'];
 
              <li><a class="dropdown-item" href="" data-bs-toggle="modal" data-bs-target="#ModalRelProdVendidos">Relatório de Produtos Vendidos</a></li>
 
-             <li><a class="dropdown-item" href="" data-bs-toggle="modal" data-bs-target="#ModalRelQuebras">Relatório de Quebras</a></li>
+             <li><a class="dropdown-item disabled" href="" data-bs-toggle="modal" data-bs-target="#ModalRelQuebras">Relatório de Quebras</a></li>
 
-              <li><a class="dropdown-item" href="" data-bs-toggle="modal" data-bs-target="#ModalRelLucro">Relatório de Lucro</a></li>
+              <li><a class="dropdown-item disabled" href="" data-bs-toggle="modal" data-bs-target="#ModalRelLucro">Relatório de Lucro</a></li>
 
-                 <li><a class="dropdown-item" href="" data-bs-toggle="modal" data-bs-target="#ModalRelContasReceber">Relatório Contas Receber</a></li>
+                 <li><a class="dropdown-item disabled" href="" data-bs-toggle="modal" data-bs-target="#ModalRelContasReceber">Relatório Contas Receber</a></li>
 
-                  <li><a class="dropdown-item" href="../rel/relContasReceberVencidas_class.php" target="_blank">Relatório Contas Receber Vencidas</a></li>
+                  <li><a class="dropdown-item disabled" href="../rel/relContasReceberVencidas_class.php" target="_blank">Relatório Contas Receber Vencidas</a></li>
 
 
-                    <li><a class="dropdown-item" href="../rel/alertas_class.php" target="_blank">Relatório Produtos Vencendo</a></li>
+                    <li><a class="dropdown-item disabled" href="../rel/alertas_class.php" target="_blank">Relatório Produtos Vencendo</a></li>
            
            
           </ul>
@@ -150,7 +150,7 @@ $id_usu = $res[0]['id'];
 
 
         <li class="nav-item">
-          <a class="nav-link" href="../painel-tesoureiro" target="_blank">Painel Tesouraria</a>
+          <a class="nav-link" href="../painel-tesoureiro" target="_blank">Painel Financeiro</a>
         </li>
         
       </ul>

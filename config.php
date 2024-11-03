@@ -1,7 +1,7 @@
 <?php 
 
 //VARIAVEIS GLOBAIS
-$nome_sistema = "PDV FREITAS";
+$nome_sistema = "PDV FÁCIL";
 $email_adm = 'contato@hugocursos.com.br';
 
  //é preciso configurar essa url para gerar os relatorios, ela deve apontar para a raiz do seu dominio (https://www.google.com/) com a barra no final e o protocolo http ou https de acordo com seu dominio no inicio.
@@ -13,18 +13,24 @@ if($url[1] == 'localhost/'){
 
 
 
-$telefone_sistema = "(31) 97527-5084";
-$endereco_sistema = "Rua X Nº 200 Centro - BH - MG";
-$rodape_relatorios = "Sistema Desenvolvido por Hugo Vasconcelos do Portal Hugo Cursos!";
+$telefone_sistema = "(99) 99999-9999";
+$endereco_sistema = "Rua X Nº 000 XXXXX - MARANGUAPE - CE";
+$rodape_relatorios = "Sistema Desenvolvido por CÓDIGOQUATRO - SOLUÇÕES";
 $cnpj_sistema = '00.000.000/0001-00';
 $fonte_comprovante = '11';
 
 
 //VARIAVEIS PARA O BANCO DE DADOS LOCAL
-$servidor = 'localhost';
-$usuario = 'root';
-$senha_bd = '';
-$banco = 'pdv';
+//$servidor = 'localhost';
+//$usuario = 'root';
+//$senha_bd = '';
+//$banco = 'pdv';
+
+//VARIAVEIS PARA O BANCO DE DADOS HOSPEDAGEM
+$servidor = '108.167.151.55';
+$usuario = 'codig267_pdv';
+$senha_bd = 'Alves1974#';
+$banco = 'codig267_pdv';
 
 
 //VARIAVEIS DE CONFIGURAÇÕES DO SISTEMA

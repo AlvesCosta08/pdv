@@ -237,11 +237,8 @@ require_once("data_formatada.php");
 				<section class="area-tab" style="background-color: #f5f5f5;">
 					
 					<div class="linha-cab" style="padding-top: 5px;">
-						<div class="coluna" style="width:30%">NOME</div>
-						<div class="coluna" style="width:15%">ESTOQUE</div>
-						<div class="coluna" style="width:15%">ESTOQUE MÍNIMO</div>
-						<div class="coluna" style="width:15%">VALOR VENDA</div>
-						<div class="coluna" style="width:15%">VALOR COMPRA</div>
+						<div class="coluna" style="width:30%">NOME</div>				
+						<div class="coluna" style="width:15%">VALOR VENDA</div>						
 						<div class="coluna" style="width:10%">FOTO</div>
 
 					</div>
@@ -262,11 +259,8 @@ require_once("data_formatada.php");
 		for ($i=0; $i < @count($res); $i++) { 
 			foreach ($res[$i] as $key => $value) {
 			}
-			$nome = $res[$i]['nome'];
-			$valor_compra = $res[$i]['valor_compra'];
+			$nome = $res[$i]['nome'];			
 			$valor_venda = $res[$i]['valor_venda'];
-			$estoque = $res[$i]['estoque'];
-			$estoque_min = $res[$i]['estoque_min'];
 			
 			$foto = $res[$i]['foto'];
 			
@@ -274,18 +268,15 @@ require_once("data_formatada.php");
 			$id = $res[$i]['id'];
 
 			
-			$valor_compra = number_format($valor_compra, 2, ',', '.');
+			
 			$valor_venda = number_format($valor_venda, 2, ',', '.');
 			?>
 
 
 				<section class="area-tab" style="padding-top:5px">					
 					<div class="linha-cab">				
-						<div class="coluna" style="width:30%"><?php echo $nome ?> </div>
-						<div class="coluna" style="width:15%"><?php echo $estoque ?></div>
-						<div class="coluna" style="width:15%"><?php echo $estoque_min ?></div>				
-						<div class="coluna" style="width:15%">R$ <?php echo $valor_venda ?></div>
-						<div class="coluna" style="width:15%">R$ <?php echo $valor_compra ?></div>				
+						<div class="coluna" style="width:30%"><?php echo $nome ?> </div>								
+						<div class="coluna" style="width:15%">R$ <?php echo $valor_venda ?></div>								
 						<div class="coluna" style="width:10%"><img src="<?php echo $url_sistema ?>img/produtos/<?php echo $foto ?>" width="28px"> </div>				
 
 					</div>

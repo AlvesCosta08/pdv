@@ -16,7 +16,7 @@ $valor_venda = str_replace(',', '.', $valor_venda);
 $id = $_POST['id-comprar'];
 $lote = $_POST['lote'];
 $validade = $_POST['validade'];
-$alerta = $_POST['alerta'];
+//$alerta = $_POST['alerta'];
 
 if($quantidade == 0){
 	echo 'A quantidade precisa ser superior a 0';

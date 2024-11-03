@@ -2,13 +2,13 @@
 require_once("conexao.php");
 
 //RETIRAR ISSO DEPOIS
-//Criar um Usuário Super com nivel de bispo padrão
+//Criar um Usuário Super com nivel de admin padrão
 $query = $pdo->query("SELECT * FROM usuarios where nivel = 'Administrador'");
 $res = $query->fetchAll(PDO::FETCH_ASSOC);
 $total_reg = count($res);
 
 if($total_reg == 0)
-$pdo->query("INSERT INTO usuarios SET nome = 'Administrador', email = 'contato@hugocursos.com.br', cpf = '000.000.000-00', senha = '123', nivel = 'Administrador' ");
+$pdo->query("INSERT INTO usuarios SET nome = 'Administrador', email = 'admin@codigoquatro.com.br', cpf = '000.000.000-00', senha = '123', nivel = 'Administrador' ");
 
  ?>
 <!DOCTYPE html>
